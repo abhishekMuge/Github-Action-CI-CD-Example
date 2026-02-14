@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/Main.cpp.o -o app  -Wl,-rpath,/workspaces/codespaces-blank/build/mylib ../mylib/libmylib.so.1.0 

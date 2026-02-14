@@ -1,0 +1,8 @@
+/workspaces/codespaces-blank/build/CMakeFiles/edit_cache.dir
+/workspaces/codespaces-blank/build/CMakeFiles/rebuild_cache.dir
+/workspaces/codespaces-blank/build/mylib/CMakeFiles/mylib.dir
+/workspaces/codespaces-blank/build/mylib/CMakeFiles/edit_cache.dir
+/workspaces/codespaces-blank/build/mylib/CMakeFiles/rebuild_cache.dir
+/workspaces/codespaces-blank/build/app/CMakeFiles/app.dir
+/workspaces/codespaces-blank/build/app/CMakeFiles/edit_cache.dir
+/workspaces/codespaces-blank/build/app/CMakeFiles/rebuild_cache.dir
